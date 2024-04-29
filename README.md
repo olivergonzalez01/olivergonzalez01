@@ -25,7 +25,7 @@ Git, MySQL
 Javascript, PHP, HTML/CSS
 
 ## Work Experience 
-ASSIST Insurance Services (2024)
+### ASSIST Insurance Services, January 2024 -
 Built website using Vike + React. Currently designing admin-only pages with user authentication.
 
 ### Alpha Toastmasters Club, President Summer 2020 - July 2022
